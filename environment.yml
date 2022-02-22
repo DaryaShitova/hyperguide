@@ -10,3 +10,4 @@ dependencies:
   - pandas=1.4.1=py38he9d5cce_0
   - python=3.8.12=h88f2d9e_0
   - scikit-learn=1.0.2=py38hae1ba45_1
+  - jupyterlab
